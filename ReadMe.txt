@@ -1,4 +1,4 @@
-Welcome to Group 6's Company Data Gathering RPA Bot
+Welcome to Group 6's Company Data Gathering RPA Bot developed using UiPath
 
 This semi-automated process requires an input list of companies and outputs each companies office address, company number, NZBN, DUNs number, 
 annual revenue and number of employees. Along with an error report, the outputs will be in two new seperate sheets in the same input excel file.
